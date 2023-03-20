@@ -33,7 +33,7 @@
 </p>
 
 <p align="center" display="inline-block">
-    💡 My Mian Language <br>
+    💡 My Main Language <br>
 </p>
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/C-2F65A7?style=for-the-badge&logo=C&logoColor=white"> 
