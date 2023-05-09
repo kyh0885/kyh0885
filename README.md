@@ -6,8 +6,8 @@
 <h3>Things I code with</h3>
 
 
-| <center></center> |<center></center>|
-| :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  | Stack skills |
+| --- | --- |
 | *Languages & Code Rules*|<img src="https://img.shields.io/badge/C-7BD2FD?style=flat-square&logo=Coursera&logoColor=white"/> <img src="https://img.shields.io/badge/C++-1CB1FC?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-037CB9?style=flat-square&logo=Python&logoColor=white"/> <img src = "https://img.shields.io/badge/J A V A-024E74?style=flat-square&logo=java&logoColor=white"> |
 | *MCU*| <img src="https://img.shields.io/badge/ESP32-FEB182?style=flat-square&logo=Espressif&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-FC6C14?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/STM32-BE4A02?style=flat-square&logo=STMicroelectronics&logoColor=white"/>  |
 | *AP*| <img src="https://img.shields.io/badge/Raspberry Pi-93FA82?style=flat-square&logo=Raspberry Pi&logoColor=black"/> <img src="https://img.shields.io/badge/Jetson Nano-52F737?style=flat-square&logo=NVIDIA&logoColor=black"/> <img src="https://user-images.githubusercontent.com/124149731/236970806-e388a977-038b-49aa-a163-71d419e4f8de.png" width = 20 height=20/><img src="https://img.shields.io/badge/Udoo-a349a4?style=flat-square&logoColor=white"/> |
@@ -18,38 +18,20 @@
 | *Platform & Library & Package*| <img src="https://img.shields.io/badge/OpenCV-66BEF4?style=flat-square&logo=OpenCV&logoColor=white"/> ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase) |
 
 <br>
-<h3>My projects</h3>
+<h3>💡My projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/kyh0885/Devicemart_project"><b>Fish Classification Project</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+     </tr>
 	  <tr>
       <td><a href="https://github.com/kyh0885/iot_mini_project"><b>Pet health feed care system </b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/kyh0885/Arduino/tree/master/Arduino%20Project1"><b>Arduino project</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
